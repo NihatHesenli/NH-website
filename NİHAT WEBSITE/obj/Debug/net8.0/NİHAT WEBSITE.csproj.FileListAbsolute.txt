@@ -1,0 +1,25 @@
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\bin\Debug\net8.0\appsettings.json
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\bin\Debug\net8.0\NİHAT WEBSITE.exe
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\bin\Debug\net8.0\NİHAT WEBSITE.deps.json
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\bin\Debug\net8.0\NİHAT WEBSITE.runtimeconfig.json
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\bin\Debug\net8.0\NİHAT WEBSITE.dll
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\bin\Debug\net8.0\NİHAT WEBSITE.pdb
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\NİHAT WEBSITE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\NİHAT WEBSITE.AssemblyInfoInputs.cache
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\NİHAT WEBSITE.AssemblyInfo.cs
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\NİHAT WEBSITE.csproj.CoreCompileInputs.cache
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\NİHAT WEBSITE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\staticwebassets\msbuild.NİHAT WEBSITE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\staticwebassets\msbuild.build.NİHAT WEBSITE.props
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NİHAT WEBSITE.props
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NİHAT WEBSITE.props
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\scopedcss\bundle\NİHAT WEBSITE.styles.css
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\NİHAT WEBSITE.dll
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\refint\NİHAT WEBSITE.dll
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\NİHAT WEBSITE.pdb
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\NİHAT WEBSITE.genruntimeconfig.cache
+C:\Users\Standard Computer`s\source\repos\NİHAT WEBSITE\NİHAT WEBSITE\obj\Debug\net8.0\ref\NİHAT WEBSITE.dll
